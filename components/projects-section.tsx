@@ -45,8 +45,8 @@ const projects = [
     description:
       "Mock analytics dashboard with interactive data visualizations.",
     image: "/dashboardanalytic.png",
-    tags: ["Vue.js", "D3.js", "Python"],
-    year: "2022",
+    tags: ["Typescript","React","Shad-cn","Tailwind CSS"],
+    year: "2025",
     links: "https://dashboard-display-81vi.vercel.app/",
   },
 ];
